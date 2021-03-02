@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "truffle": "^5.2.2"
+    "truffle": "^5.2.2",
+    "@openzeppelin/contracts": "2.5.0"
   }
 }
